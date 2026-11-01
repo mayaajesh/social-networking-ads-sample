@@ -15,7 +15,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("Social Network Ads Purchase Prediction")
+st.title("Customer Purchase Prediction System")
 
 st.write("Predict whether a customer will purchase a product.")
 
